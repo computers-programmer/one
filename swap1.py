@@ -1,0 +1,12 @@
+a=int(input("Enter First Number"))
+b=int(input("Enter Second Number"))
+
+print("Before Swaping %d and %d "%(a,b))
+a,b=b,a
+print("After Swaping %d and %d "%(a,b))
+
+
+
+
+
+            
